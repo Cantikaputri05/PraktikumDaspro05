@@ -77,11 +77,7 @@ Diskon              : Rp 0
 Total bayar         : Rp 54000
 Uang tidak cukup, kurang Rp 4000
 
- #### 2.2 Experiment 3: Case Study 2 – Nested Selection
-    The Student Affairs Division of Politeknik Negeri Malang has issued a letter regarding the
-verification of complete achievement documents for students in Activity Year 2026, Stage I. Based
-on the requirements in that letter, the institution's award funds are given to students under the
-following conditions...
+ 
 
   
   
