@@ -1,6 +1,7 @@
+ #### 2.2 Experiment 3: Case Study 2 – Nested Selection
+     
 import java.util.Scanner;
-
-public class StudiKasus205 {
+    public class StudiKasus205 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
