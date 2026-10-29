@@ -31,6 +31,7 @@ import java.util.Scanner;
         System.out.println("Total bayar         : Rp " + totalBayar);
 
         
+           // logika diskon dan kembalian
         if (uangBayar >= totalBayar) {
             kembalian = uangBayar - totalBayar;
             System.out.println("Kembalian           : Rp " + kembalian);
